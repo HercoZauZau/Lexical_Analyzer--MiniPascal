@@ -1,5 +1,7 @@
 # Mini Pascal Lexical Analyzer
 
+<img src="https://github.com/HercoZauZau/Lexical_Analyzer--MiniPascal/blob/main/img/img.png?raw=true">
+
 This program is a simple Lexical Analyzer for a subset of the Pascal programming language, known as Mini Pascal. It provides a graphical user interface for managing source code, illustrating the tokens with their respective classes and displaying the elapsed time of the analysis.
 
 ## Features
