@@ -51,7 +51,7 @@ After analyzing the code, the program will display the following tokens:
 | HelloWorld  | Identifier        | 1    |
 | ;           | Punctuation       | 1    |
 | begin       | Reserved Keyword  | 2    |
-| writeln     | Identifier        | 3    |
+| writeln     | Reserved Keyword  | 3    |
 | (           | Punctuation       | 3    |
 | 'Hello, World!' | String           | 3    |
 | )           | Punctuation       | 3    |
